@@ -1,0 +1,14 @@
+C:\Work\C#\WPF\Tutorial\WpfTutorial\WpfTutorial\bin\Debug\WpfTutorial.exe.config
+C:\Work\C#\WPF\Tutorial\WpfTutorial\WpfTutorial\bin\Debug\WpfTutorial.exe
+C:\Work\C#\WPF\Tutorial\WpfTutorial\WpfTutorial\bin\Debug\WpfTutorial.pdb
+C:\Work\C#\WPF\Tutorial\WpfTutorial\WpfTutorial\obj\Debug\WpfTutorial.csprojResolveAssemblyReference.cache
+C:\Work\C#\WPF\Tutorial\WpfTutorial\WpfTutorial\obj\Debug\MainWindow.g.cs
+C:\Work\C#\WPF\Tutorial\WpfTutorial\WpfTutorial\obj\Debug\App.g.cs
+C:\Work\C#\WPF\Tutorial\WpfTutorial\WpfTutorial\obj\Debug\WpfTutorial_MarkupCompile.cache
+C:\Work\C#\WPF\Tutorial\WpfTutorial\WpfTutorial\obj\Debug\WpfTutorial_MarkupCompile.lref
+C:\Work\C#\WPF\Tutorial\WpfTutorial\WpfTutorial\obj\Debug\MainWindow.baml
+C:\Work\C#\WPF\Tutorial\WpfTutorial\WpfTutorial\obj\Debug\WpfTutorial.g.resources
+C:\Work\C#\WPF\Tutorial\WpfTutorial\WpfTutorial\obj\Debug\WpfTutorial.Properties.Resources.resources
+C:\Work\C#\WPF\Tutorial\WpfTutorial\WpfTutorial\obj\Debug\WpfTutorial.csproj.GenerateResource.Cache
+C:\Work\C#\WPF\Tutorial\WpfTutorial\WpfTutorial\obj\Debug\WpfTutorial.exe
+C:\Work\C#\WPF\Tutorial\WpfTutorial\WpfTutorial\obj\Debug\WpfTutorial.pdb
